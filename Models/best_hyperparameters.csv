@@ -1,0 +1,12 @@
+Model,Parameter,Best Value
+XGBoost,colsample_bytree,0.8392
+XGBoost,learning_rate,0.2866
+XGBoost,max_depth,8
+XGBoost,min_child_weight,7
+XGBoost,n_estimators,351
+XGBoost,subsample,0.6181
+Random Forest,max_depth,19
+Random Forest,max_features,log2
+Random Forest,min_samples_leaf,6
+Random Forest,min_samples_split,4
+Random Forest,n_estimators,207

@@ -1,0 +1,6 @@
+Model,Accuracy,F1 Weighted,F1 Macro,ROC-AUC
+XGBoost,0.9002,0.892,0.5193,0.7839
+Random Forest,0.8972,0.8911,0.5148,0.7809
+Gradient Boosting,0.8979,0.8904,0.5126,0.7823
+Neural Network,0.87,0.8731,0.4973,0.7624
+Logistic Regression,0.8652,0.8663,0.4765,0.7452

@@ -1,0 +1,13 @@
+# Large datasets
+Data/
+
+# Trained models
+Models/trained_models.pkl
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
