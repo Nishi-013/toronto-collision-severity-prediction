@@ -1,4 +1,4 @@
-# Predicting and Explaining Traffic Collision Severity in Toronto Using Explainable Machine Learning
+# Predicting and Explaining Traffic Collision Severity in Toronto Using Explainable Machine Learning 
 
 **Author:** Nishi Bhavesh Patel | Student ID: 501356244  
 **Program:** Master of Data Science & Analytics (Full-Time)  
